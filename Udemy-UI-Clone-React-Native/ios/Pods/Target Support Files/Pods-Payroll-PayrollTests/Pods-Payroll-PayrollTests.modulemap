@@ -1,0 +1,6 @@
+module Pods_Payroll_PayrollTests {
+  umbrella header "Pods-Payroll-PayrollTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
