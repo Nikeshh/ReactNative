@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>457777169220-6do5vqag8lmd5saeg5io47ognt982d9h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.457777169220-6do5vqag8lmd5saeg5io47ognt982d9h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDA0dMyH2H2qdJOTAtv78CckTCtEkmZUq4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>457777169220</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.payroll</string>
+	<key>PROJECT_ID</key>
+	<string>loginapplication-efd2c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginapplication-efd2c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:457777169220:ios:16c52133195c8a75e2cd11</string>
+	<key>DATABASE_URL</key>
+	<string>https://loginapplication-efd2c.firebaseio.com</string>
+</dict>
+</plist>

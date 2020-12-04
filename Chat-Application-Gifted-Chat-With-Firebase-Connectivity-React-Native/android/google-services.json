@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457777169220",
+    "firebase_url": "https://loginapplication-efd2c.firebaseio.com",
+    "project_id": "loginapplication-efd2c",
+    "storage_bucket": "loginapplication-efd2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457777169220:android:155f13f78eee91d3e2cd11",
+        "android_client_info": {
+          "package_name": "com.payroll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457777169220-as8fi3s567ohekt9ffai0hbpnms1pfcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sAOy6pTlrG1_u4jdgPtY0cF8xQQHCLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457777169220-as8fi3s567ohekt9ffai0hbpnms1pfcm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457777169220-6do5vqag8lmd5saeg5io47ognt982d9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.payroll"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
